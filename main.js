@@ -51,7 +51,7 @@ document.addEventListener('keydown', function(event) {
 
 // user accessibility: src attribute update
 document.addEventListener("DOMContentLoaded", function() {
-    const baseURL = "https://prisma-chromelle.github.io/resource-node-server/null_data_log%2Cjs/null_data_l0g%2Cjs/";
+    const baseURL = "https://prisma-lumina.github.io/resource-node-server/null_data_log%2Cjs/null_data_l0g%2Cjs/";
   
     // img and audio
     const mediaElements = document.querySelectorAll(".media");
