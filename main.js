@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 // user accessibility: src update: content-photo
 document.addEventListener("DOMContentLoaded", function() {
-  const baseURL = "https://prisma-chromelle.github.io/resource-node-server/null_data_log%2Cjs/null_data_log%2Cjs/";
+  const baseURL = "https://prisma-lumina.github.io/resource-node-server/null_data_log%2Cjs/null_data_log%2Cjs/";
 
   const mediaElements = document.querySelectorAll(".content-photo");
   mediaElements.forEach(element => {
@@ -93,7 +93,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 // user accessibility: src update: img decoy
 document.addEventListener("DOMContentLoaded", function() {
-    const baseURL = "https://prisma-chromelle.github.io/resource-node-server/";
+    const baseURL = "https://prisma-lumina.github.io/resource-node-server/";
 
     const mediaElements = document.querySelectorAll(".redundant_data");
     mediaElements.forEach(element => {
